@@ -49,7 +49,7 @@ La técnica utilizada en esta animación es **Pose to Pose**: se definen primero
    - **Start Frame:** `1`
    - **End Frame:** `8`
 4. En la **Timeline** en la parte inferior, confirma que el rango muestre `1–8`.
-5. Guarda el archivo desde el inicio: `Ctrl + S` → nómbralo `protectoBkender.blend`.
+5. Guarda el archivo desde el inicio: `Ctrl + S`.
 
 ---
 
