@@ -88,12 +88,12 @@ La animación sigue exactamente estas 8 poses:
 | Frame | Pose | Principio aplicado |
 |-------|------|--------------------|
 | 1 | **Contacto Inicial** | Pose base — punto de referencia del ciclo |
-| 2 | **Paso 1** | Timing — ritmo constante de caminata |
-| 3 | **Paso 2** | Timing — continuación del ritmo |
+| 2 | **Paso 1** | ritmo — ritmo constante de caminata |
+| 3 | **Paso 2** | ritmo — continuación del ritmo |
 | 4 | **Preparación** | Anticipación — el cuerpo se comprime antes del salto |
-| 5 | **Salto** | Squash & Stretch — el cuerpo se estira al despegar |
-| 6 | **Aire** | Timing — punto más alto, gravedad desacelera |
-| 7 | **Aterriza** | Squash & Stretch + Follow Through — impacto y compresión |
+| 5 | **Salto** | Copresión y estiramiento — el cuerpo se estira al despegar |
+| 6 | **Aire** | ritmo — punto más alto, gravedad desacelera |
+| 7 | **Aterriza** | copresion y estiramiento  — impacto y compresión |
 | 8 | **Contacto** | Inercia — el cuerpo se estabiliza gradualmente |
 
 ---
