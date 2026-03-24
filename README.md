@@ -19,19 +19,19 @@ Antes de explicar el proceso técnico, es importante entender los principios de 
 ### Anticipación
 Antes de que el astronauta salte, primero se **agacha** (Frame 4 — Preparación). Este movimiento previo al contrario de la acción principal se llama anticipación. Sin él, el salto se vería brusco e irreal porque el espectador no tendría tiempo de "prepararse" para verlo. La anticipación también comunica **peso**: un personaje pesado como un astronauta con traje espacial necesita más esfuerzo para despegar.
 
-### Squash & Stretch (Compresión y Estiramiento)
+### Compresión y Estiramiento
 Aunque en esta animación el astronauta mantiene su forma rígida por el traje espacial, el principio se aplica sutilmente:
 - En el **Frame 4 (Preparación)** el cuerpo se comprime hacia abajo.
 - En el **Frame 5 (Salto)** el cuerpo se estira hacia arriba al despegar.
 - En el **Frame 7 (Aterriza)** el cuerpo vuelve a comprimirse al impactar el suelo.
 
-### Follow Through e Inercia
+### Inercia
 Cuando el astronauta aterriza, su cuerpo no se detiene de golpe. Los brazos siguen moviéndose hacia adelante por inercia (Frame 7 y 8). Esto hace que el movimiento se sienta físicamente creíble y con peso real.
 
-### Timing (Ritmo)
+### Ritmo
 Con solo 8 frames, cada pose debe comunicar claramente su momento en la acción. Los frames de caminata (1–3) tienen un ritmo constante, mientras que el salto (4–8) tiene una aceleración hacia arriba y una desaceleración al aterrizar, imitando la física real del movimiento bajo la gravedad.
 
-### Pose to Pose
+### Pose por Pose
 La técnica utilizada en esta animación es **Pose to Pose**: se definen primero las poses clave más importantes (contacto, salto, aterrizaje) y luego se rellenan los frames intermedios. Es el método opuesto a "straight ahead" (dibujar frame por frame sin planear), y da mayor control sobre la composición y el ritmo.
 
 ---
